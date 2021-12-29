@@ -1,0 +1,59 @@
+
+html {
+    position: relative;
+    background-repeat: no-repeat;
+width: 1924px;
+height: 1283px;
+}
+
+body {
+    background-image: url(/img//top-view-festive-christmas-ornaments-with-copy-space\ 1.png);
+    position: relative;
+    background-repeat: no-repeat;
+width: 1924px;
+height: 1283px;
+   }
+
+.logo 
+{
+    position: relative;
+width: 317.21px;
+height: 80.3px;
+left: 801.79px;
+top: 20%
+}
+
+.h1 {
+    position: absolute;
+    width: 40%;
+left: 25.1%;
+right: 29.69%;
+top: 28.83%;
+bottom: 43.61%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 78px;
+
+color: #EF2D24;
+}
+
+.text {
+    position: absolute;
+width: 951px;
+height: 346px;
+left: 25.1%;
+top: 47%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 38px;
+text-align: justify;
+
+color: #585858;
+
+}
